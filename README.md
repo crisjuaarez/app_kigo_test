@@ -99,7 +99,7 @@ El archivo `main.dart` es el punto de entrada de la aplicación Flutter. Aquí e
 - Dispositivo Android
 
 ### Instalación
-1. Descargar el apk que se encuentra en el zip llamado `app_kigo_test.zip`.
+1. Descargar el apk que se encuentra dentro del zip llamado `app_kigo_test.zip`.
 2. Extraer el archivo zip en la carpeta de la aplicación.
 3. Habilitar fuentes desconocidas en el dispositivo Android.
 3. Instalar el apk en el dispositivo Android.
